@@ -1,5 +1,6 @@
 using AltTester.AltTesterUnitySDK.Driver;
 using NUnit.Framework;
+using UnityEngine.TestTools;
 
 namespace Editor
 {
@@ -21,7 +22,7 @@ namespace Editor
             _altDriver.Stop();
         }
 
-        [Test]
+        [UnityTest]
         public void StartButtonLoadsMainScene()
         {
             _altDriver.LoadScene("Start");
@@ -29,7 +30,8 @@ namespace Editor
             _altDriver.FindObject(By.NAME, "StartButton").Click();
             _altDriver.WaitForCurrentSceneToBe("Main");
         }
-
+        
+        [UnityTest]
         public void RunButtonStartsRun()
         {
             _altDriver.WaitForCurrentSceneToBe("Main");

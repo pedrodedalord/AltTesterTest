@@ -18,70 +18,14 @@ MonoBehaviour:
   XcrunPath: /usr/bin/xcrun
   MyTests:
   - _selected: 0
-    _testName: E:/Pedro/Proyectos_Unity/AltTesterTest/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
-    _testAssembly: Assembly-CSharp-Editor
-    _status: 1
-    _isSuite: 1
-    _type: NUnit.Framework.Internal.TestAssembly
-    _parentName: 
-    _testCaseCount: 1
-    _foldOut: 1
-    _testResultMessage: 
-    _testStackTrace: 
-    _testDuration: 0
-    path: 
-    _testSelectedCount: 0
-  - _selected: 0
-    _testName: Editor
-    _testAssembly: Assembly-CSharp-Editor
-    _status: 1
-    _isSuite: 1
-    _type: NUnit.Framework.Internal.TestSuite
-    _parentName: E:/Pedro/Proyectos_Unity/AltTesterTest/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
-    _testCaseCount: 1
-    _foldOut: 1
-    _testResultMessage: 
-    _testStackTrace: 
-    _testDuration: 0
-    path: 
-    _testSelectedCount: 0
-  - _selected: 0
-    _testName: Editor.MyFirstTest
-    _testAssembly: Assembly-CSharp-Editor
-    _status: 1
-    _isSuite: 1
-    _type: NUnit.Framework.Internal.TestFixture
-    _parentName: Editor
-    _testCaseCount: 1
-    _foldOut: 1
-    _testResultMessage: 
-    _testStackTrace: 
-    _testDuration: 0
-    path: 
-    _testSelectedCount: 0
-  - _selected: 0
-    _testName: Editor.MyFirstTest.StartButtonLoadsMainScene
-    _testAssembly: Assembly-CSharp-Editor
-    _status: 1
-    _isSuite: 0
-    _type: NUnit.Framework.Internal.TestMethod
-    _parentName: Editor.MyFirstTest
-    _testCaseCount: 1
-    _foldOut: 1
-    _testResultMessage: 
-    _testStackTrace: 
-    _testDuration: 1.1251057
-    path: Assets/Editor/MyFirstTest.cs
-    _testSelectedCount: 0
-  - _selected: 0
     _testName: E:/Pedro/Proyectos_Unity/AltTesterTest/Library/ScriptAssemblies/Unity.Addressables.Editor.Tests.DocExampleCode.dll
     _testAssembly: Unity.Addressables.Editor.Tests.DocExampleCode
-    _status: 1
+    _status: 0
     _isSuite: 1
     _type: NUnit.Framework.Internal.TestAssembly
     _parentName: 
     _testCaseCount: 1
-    _foldOut: 1
+    _foldOut: 0
     _testResultMessage: 
     _testStackTrace: 
     _testDuration: 0
@@ -90,12 +34,12 @@ MonoBehaviour:
   - _selected: 0
     _testName: AddressableAssets
     _testAssembly: Unity.Addressables.Editor.Tests.DocExampleCode
-    _status: 1
+    _status: 0
     _isSuite: 1
     _type: NUnit.Framework.Internal.TestSuite
     _parentName: E:/Pedro/Proyectos_Unity/AltTesterTest/Library/ScriptAssemblies/Unity.Addressables.Editor.Tests.DocExampleCode.dll
     _testCaseCount: 1
-    _foldOut: 1
+    _foldOut: 0
     _testResultMessage: 
     _testStackTrace: 
     _testDuration: 0
@@ -104,12 +48,12 @@ MonoBehaviour:
   - _selected: 0
     _testName: AddressableAssets.DocExampleCode
     _testAssembly: Unity.Addressables.Editor.Tests.DocExampleCode
-    _status: 1
+    _status: 0
     _isSuite: 1
     _type: NUnit.Framework.Internal.TestSuite
     _parentName: AddressableAssets
     _testCaseCount: 1
-    _foldOut: 1
+    _foldOut: 0
     _testResultMessage: 
     _testStackTrace: 
     _testDuration: 0
@@ -118,12 +62,12 @@ MonoBehaviour:
   - _selected: 0
     _testName: AddressableAssets.DocExampleCode.TestStub
     _testAssembly: Unity.Addressables.Editor.Tests.DocExampleCode
-    _status: 1
+    _status: 0
     _isSuite: 1
     _type: NUnit.Framework.Internal.TestFixture
     _parentName: AddressableAssets.DocExampleCode
     _testCaseCount: 1
-    _foldOut: 1
+    _foldOut: 0
     _testResultMessage: 
     _testStackTrace: 
     _testDuration: 0
@@ -132,15 +76,15 @@ MonoBehaviour:
   - _selected: 0
     _testName: AddressableAssets.DocExampleCode.TestStub.RequiredTest
     _testAssembly: Unity.Addressables.Editor.Tests.DocExampleCode
-    _status: 1
+    _status: 0
     _isSuite: 0
     _type: NUnit.Framework.Internal.TestMethod
     _parentName: AddressableAssets.DocExampleCode.TestStub
     _testCaseCount: 1
-    _foldOut: 1
+    _foldOut: 0
     _testResultMessage: 
     _testStackTrace: 
-    _testDuration: 0.0012477
+    _testDuration: 0
     path: Packages/com.unity.addressables/Tests/Editor/DocExampleCode/TestStub.cs
     _testSelectedCount: 0
   - _selected: 1
@@ -228,7 +172,7 @@ MonoBehaviour:
     path: 
     _testSelectedCount: 0
   - _selected: 1
-    _testName: E:/Pedro/Proyectos_Unity/data-000001C076E20030
+    _testName: E:/Pedro/Proyectos_Unity/data-00000159523D2010
     _testAssembly: JetBrains.Rider.Unity.Editor.Plugin.Net46.Repacked
     _status: 0
     _isSuite: 1
